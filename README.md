@@ -1,6 +1,6 @@
 ## Hi there, I am Vaibhav Diwan
 
-<
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: divaibhav@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
->
+
