@@ -11,6 +11,7 @@
 - 💬 Ask me about Java, DSA
 - 📫 How to reach me: divaibhav@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I don't have mind to mind things.....
+- you can also subscribe to my youtube channel [divaibhav](https://www.youtube.com/@divaibhav)
 
 ![divaibhav](https://komarev.com/ghpvc/?username=divaibhav)
