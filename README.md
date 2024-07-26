@@ -1,6 +1,6 @@
 ## Hi there, I am Vaibhav Diwan
 
-
+![Naming](./resource/naming.jpg)
 
 
 
