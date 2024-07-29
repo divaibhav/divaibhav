@@ -1,10 +1,4 @@
 ## Hi there, I am Vaibhav Diwan
-
-![Naming](./resource/naming.jpg)
-![ClassName and Naming Convention](./resource/class-name.jpg)
-
-
-
 - 🔭 I’m currently working on Java Full Stack Development.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Java Projects
